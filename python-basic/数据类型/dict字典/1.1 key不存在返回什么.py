@@ -1,3 +1,4 @@
+#TODO 测试：key不存在返回什么
 dict = {'name': 'runoob','code':1, 'site': 'www.runoob.com'}
 # print(dict["age"])  #报错
 # print(dict.get("age"))  #返回None
